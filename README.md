@@ -1,8 +1,8 @@
-```sh
+<!--  
 Utilize o site <https://www.toptal.com/developers/gitignore> para gerar seu arquivo gitignore e apague este campo.
 
 Vide tutoriais do PI.
-```
+``` -->
 
 # FECAP - Fundação de Comércio Álvares Penteado
 
@@ -10,109 +10,301 @@ Vide tutoriais do PI.
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
-# Nome do Projeto
+# SmartSaude
 
-## Nome do Grupo
+## ESC
 
-## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Goku Sayajin</a>, <a href="https://www.linkedin.com/in/victorbarq/">Saitama One</a>, <a href="https://www.linkedin.com/in/victorbarq/">Ikki de Fenix</a>, <a href="https://www.linkedin.com/in/victorbarq/">Yusuke Urameshi</a>, <a href="https://www.linkedin.com/in/victorbarq/">Roronoa Zoro</a>
+## Integrantes: <a href="https://www.linkedin.com/in/eric-de-lucas-silva/">Eric De Lucas Silva</a>, <a href="https://www.linkedin.com/in/stephanie-silva-1b6100340/">Stephanie Macedo da Silva</a>, <a href="https://www.linkedin.com/in/en-hsiang-chien-53b550381/">En Hsiang Chien</a>.
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/marco-aur%C3%A9lio-zanote-a5636123/?skipRedirect=true">Marco Aurelio Zanote</a>, <a href="https://www.linkedin.com/in/katia-bossi/">Katia Milani Lara Bossi</a>, <a href="https://www.linkedin.com/in/rodrigo-da-rosa-phd/">Rodrigo da Rosa</a>, <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>.
 
 ## Descrição
 
-<p align="center">
-<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
-  Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://ibb.co/ymNDWGwJ">
+        <img src="https://i.ibb.co/6cy2gV35/1000148180.png" width="200" height="400">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://ibb.co/LXPWz25D">
+        <img src="https://i.ibb.co/fzS5YPvV/1000148201.png" width="200" height="400">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://ibb.co/Nn3NTdXb">
+        <img src="https://i.ibb.co/yBRk4cD7/1000148202.png" width="200" height="400">
+      </a>
+    </td>
+  </tr>
 
+  <tr>
+    <td align="center"><b>Tela de Login</b></td>
+    <td align="center"><b>Tela Principal (Paciente)</b></td>
+    <td align="center"><b>Tela Principal (Profissional)</b></td>
+  </tr>
+</table>
+<br>
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
-<br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
-<br><br>
-May the force be with you!
-<br><br>
+<p> A SmartSaude é uma plataforma desenvolvida para auxiliar no acompanhamento de tratamentos fisioterapêuticos, unindo um aplicativo mobile a um sistema backend responsável por gerenciar dados, usuários e funcionalidades. A proposta do projeto é facilitar o acesso do paciente aos exercícios e permitir o registro contínuo do seu progresso, tornando o processo mais organizado e eficiente.
+
+Como diferencial, o sistema utiliza inteligência artificial para analisar os movimentos realizados durante os exercícios, ajudando a identificar se estão sendo executados corretamente. Dessa forma, o projeto contribui tanto para o paciente, que recebe orientações durante o uso, quanto para o profissional de saúde, que pode acompanhar a evolução de forma mais precisa e prática. </p>
+<br>
 
 ## 🛠 Estrutura de pastas
 
--Raiz<br>
-|<br>
-|-->documentos<br>
-  &emsp;|-->antigos<br>
-  &emsp;|Documentação.docx<br>
-|-->executáveis<br>
-  &emsp;|-->windows<br>
-  &emsp;|-->android<br>
-  &emsp;|-->HTML<br>
-|-->imagens<br>
-|-->src<br>
-  &emsp;|-->Backend<br>
-  &emsp;|-->Frontend<br>
-|readme.md<br>
+<h3>Entregas</h3>
+<pre>
+├── documentos
+│   ├── Banner_FECAP_CCOMP3_ESC.pdf
+│   ├── Banner_FECAP_CCOMP3_ESC.pptx
+│   ├── Documento - Projeto de Extensão - COM Empresa.docx
+│   ├── Documento - Projeto de Extensão - SEM EMPRESA.docx
+│   ├── Entrega 1
+│   │   ├── Analise Descritiva
+│   │   ├── Aplicativo Móvel
+│   │   ├── Estrutura de Dados
+│   │   ├── Programação para Dispositivos
+│   │   └── Venha para a FECAP!.txt
+│   ├── Entrega 2
+│   │   ├── Analise Descritiva
+│   │   ├── Aplicativo Móvel
+│   │   ├── Estrutura de Dados
+│   │   ├── Programação para Dispositivos
+│   │   └── Venha para a FECAP!.txt
+│   └── Venha para a FECAP!.txt
+├── imagens   
+├── README.md
+└── src
+    ├── Entrega 1
+    │   ├── Backend
+    │   ├── Frontend
+    │   └── Venha para a FECAP!.txt
+    └── Entrega 2
+        ├── Backend
+        ├── Frontend
+        └── Venha para a FECAP!.txt
+</pre>
 
-A pasta raiz contem dois arquivos que devem ser alterados:
 
-<b>README.MD</b>: Arquivo que serve como guia e explicação geral sobre seu projeto. O mesmo que você está lendo agora.
 
-Há também 4 pastas que seguem da seguinte forma:
 
-<b>documentos</b>: Toda a documentação estará nesta pasta.
+<h3>Frontend</h3>
+<details>
+<summary><strong>clique aqui para ver o Tree</strong></summary>
+<pre>
+Esc--Maya-Yoshiko-Yamamoto/
+│   └── front/Esc--Maya-Yoshiko-Yamamoto/testbackend/
+│       ├── 📱 app/src/main/                 # Código principal Android
+│       │   ├── java/com/example/testbackend/
+│       │   │   ├── 🎯 MainActivity.java
+│       │   │   ├── 👤 ProfileActivity.java
+│       │   │   ├── 🏥 ProfessionalMainActivity.java
+│       │   │   ├── 🔐 LoginActivity.java
+│       │   │   ├── 📋 PatientHealthDetailsActivity.java
+│       │   │   └── 📚 models/                # Models de dados
+│       │   ├── 🎨 res/layout/               # Layouts XML
+│       │   └── 🎨 res/values/               # Recursos Android
+│       ├── 📦 gradle/                       # Configuração Gradle
+│       └── 📦 build/                        # Build artifacts
+</pre>
+</details>
 
-<b>executáveis</b>: Binários e executáveis do projeto devem estar nesta pasta.
 
-<b>imagens</b>: Imagens do sistema
 
-<b>src</b>: Pasta que contém o código fonte.
+<h3>Backend</h3>
 
-## 🛠 Instalação
+<details>
+<summary><strong>clique aqui para ver o Tree</strong></summary>
+<pre>
+Backend/
+├── auth-service/          # 🏛️ Serviço Central de Autenticação
+├── training-service/      # 💪 Serviço de Treinamento e Progresso
+├── ehr-service/          # 📋 Serviço de Prontuário Eletrônico
+├── exercise-service/     # 🏃‍♂️ Serviço de Exercícios e Mídia
+├── ai-service/          # 🤖 Serviço de IA e Análise
+├── health-service/      # 🏥 Serviço de Ferramentas de Saúde
+├── notification-service/ # 📬 Serviço de Notificações
+├── analytics-service/   # 📊 Serviço de Análises
+└── shared/             # 🔧 Componentes Compartilhados
+</pre>
+</details>
+<br>
 
-<b>Android:</b>
+## 🛠Instalação
 
-Faça o Download do JOGO.apk no seu celular.
-Execute o APK e siga as instruções de seu telefone.
+<h3>Android:</h3>
+<p><a href= "https://drive.google.com/file/d/1bZhjURfa8ue7h2TGKx2VhKunDvap8EEC/view?usp=sharing">Click aqui para baixar</a></p>
+<br>
 
-```sh
-Coloque código do prompt de comnando se for necessário
-```
+## 💻 Como rodar o projeto?
 
-<b>Windows:</b>
-
-Não há instalação! Apenas executável!
-Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
-
-```sh
-Coloque código do prompt de comnando se for necessário
-```
-
-<b>HTML:</b>
-
-Não há instalação!
-Encontre o index.html na pasta executáveis e execute-o como uma página WEB (através de algum browser).
+<h3><p>✅ Ferramentas necessárias<p></h3>
+<li>Android Studio</li>
+<li>Visual Studio Code</li>
+<li>Java 11+</li>
+<li>python 3(backend)</li>
+<li>MySQL</li>
+<br>
 
 ## 💻 Configuração para Desenvolvimento
 
-Descreva como instalar todas as dependências para desenvolvimento e como rodar um test-suite automatizado de algum tipo. Se necessário, faça isso para múltiplas plataformas.
+<h3>1. Acesso ao repositório</h3>
 
-Para abrir este projeto você necessita das seguintes ferramentas:
+<li>Acesse o repositório no README do GitHub</li>
+<li>Navegue até a "🛠instalação" localize o link do arquivo .apk</li>
 
--<a href="https://godotengine.org/download">GODOT</a>
 
-```sh
-make install
-npm test
-Coloque código do prompt de comnando se for necessário
+<h3>2. Download do APK</h3>
+
+<li>Ao clicar no link, selecione “Download”</li>
+<li>Aguarde a conclusão do download na barra de notificações do celular</li>
+
+<h3>3. Permissão de instalação (Android)</h3>
+
+<li>Após o download, toque no arquivo .apk</li>
+<li>O sistema pode exibir um aviso de segurança Clique em “Configurações” ou “Permitir desta fonte”</li>
+<li>Ative a opção para permitir a instalação de apps de fontes desconhecidas
+Retorne e selecione “Instalar”</li>
+
+<h3>4. Verificação de segurança</h3>
+<li>O sistema Android pode realizar uma verificação automática (Play Protect)</li>
+<li>Caso apareça aviso: Selecione “Instalar mesmo assim” (caso confie na fonte)</li>
+<li>Aguarde a conclusão da instalação</li>
+
+<h3>5. Abertura do aplicativo</h3>
+
+<li>Após instalado, clique em “Abrir”</li>
+<li>Ou localize o app na tela inicial / menu de aplicativos</li>
+
+<h3>6. Criação de conta</h3>
+<li>Na tela inicial, selecione a opção “Cadastrar”</li>
+<li>Preencha os campos solicitados (ex: CPF, e-mail, senha)</li>
+<li>Confirme o cadastro</li>
+
+<h3>7. Login no sistema</h3>
+<li>Retorne à tela de login</li>
+<li>Insira e-mail e senha cadastrados</li>
+<li>Clique em “Entrar”</li>
+
+<br>
+
+## 🗂️ Caminho do projeto
+
+```
+git clone https://github.com/Ericdelucas/Esc--Maya-Yoshiko-Yamamoto.git
+cd Esc--Maya-Yoshiko-Yamamoto
+cd Backend
+````
+
+## 🚀 Inicie os serviços com Docker (Recomendado)
+
+Na pasta `Backend`, execute:
+
+```bash
+docker-compose up --build
 ```
 
-## 📋 Licença/License
-Utilize o link <https://chooser-beta.creativecommons.org/> para fazer uma licença CC BY 4.0.
+Para rodar em background (detached mode):
+```bash
+docker-compose up -d --build
+```
 
-## 🎓 Referências
+Para parar os serviços:
+```bash
+docker-compose down
+```
+<br>
+
+## 🌐 Acesse os serviços
+
+| Serviço | URL | Health Check |
+|---------|-----|--------------|
+| Auth Service | http://localhost:8080 | http://localhost:8080/health |
+| Exercise Service | http://localhost:8081 | http://localhost:8081/health |
+| Training Service | http://localhost:8030 | http://localhost:8030/health |
+| EHR Service | http://localhost:8060 | http://localhost:8060/health |
+| AI Service | http://localhost:8090 | http://localhost:8090/health |
+| Health Service | http://localhost:8070 | http://localhost:8070/health |
+| Notification Service | http://localhost:8040 | http://localhost:8040/health |
+| Analytics Service | http://localhost:8050 | http://localhost:8050/health |
+
+
+---
+<br>
+
+## 🎥Demonstração do Projeto
+<p>Assista ao vídeo abaixo para uma demonstração completa das funcionalidades do sistema, incluindo a criação de participantes, equipes e atividades.</p>
+
+<h3>conta do paciente</h3>
+<a href="https://drive.google.com/file/d/1MjeqjMs6TLmSSI7D7qzJa9heRKmzGFyZ/view?usp=sharing">Clica o link do vídeo aqui</a>
+
+<h3>conta do profissional</h3>
+<a href= "https://drive.google.com/file/d/1cFt2RKfjQtuLXf7qkEg2YvvB7zD0ppAB/view?usp=sharing">Clica o link do vídeo aqui </a> 
+
+
+## 📱Configuração do Frontend (Android)
+
+O frontend do projeto é um aplicativo Android.
+
+### Pré-requisitos:
+- Android Studio (https://developer.android.com/studio)
+- Java JDK 17 ou superior
+- Android SDK
+
+### Abra o projeto no Android Studio:
+1. Abra o Android Studio
+2. Selecione "Open an existing project"
+3. Navegue até: `Esc--Maya-Yoshiko-Yamamoto\front\Esc--Maya-Yoshiko-Yamamoto\testbackend`
+4. Aguarde o Gradle sincronizar
+
+### Configure a URL da API:
+No código do app, configure o IP da máquina para conectar ao backend:
+
+```java
+// Exemplo em Constants.kt ou similar
+const val BASE_URL = "http://SEU_IP:8080/"
+```
+
+> **Nota:** Use o IP da sua máquina na rede local, não `localhost`, pois o emulador/Android tem seu próprio localhost.
+
+### Execute o app:
+- Clique no botão "Run" (▶️) no Android Studio
+- Selecione um emulador ou dispositivo físico
+
+---
+<br>
+
+## Rotas da API 🚀
+
+<h3>Arquitetura de Microserviços</h3>
+<table>
+  <thead>
+    <tr>
+      <th align="left">Serviço</th>
+      <th align="left">Porta</th>
+      <th align="left">Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td><code>auth-service</code></td><td>8080</td><td>Autenticação e gestão de usuários</td></tr>
+    <tr><td><code>exercise-service</code></td><td>8081</td><td>Gestão de exercícios</td></tr>
+    <tr><td><code>training-service</code></td><td>8030</td><td>Planos de treino e gamificação</td></tr>
+    <tr><td><code>ehr-service</code></td><td>8060</td><td>Prontuário eletrônico (EHR)</td></tr>
+    <tr><td><code>ai-service</code></td><td>8090</td><td>Inteligência artificial e pose detection</td></tr>
+    <tr><td><code>health-service</code></td><td>8070</td><td>Métricas de saúde (IMC, gordura corporal)</td></tr>
+  </tbody>
+</table>
+<br>
+
+## 📋Licença/License
+<p> <a href="https://github.com/Ericdelucas/Esc--Maya-Yoshiko-Yamamoto.git">ESC</a> © 2026 by <a href="https://www.linkedin.com/in/eric-de-lucas-silva/">Eric de Lucas Silva, Stephanie Macedo da Silva e En Hsiang Chien</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"> </p>
+
+## 🎓Referências
 
 Aqui estão as referências usadas no projeto.
 
-1. <https://github.com/iuricode/readme-template>
-2. <https://github.com/gabrieldejesus/readme-model>
-3. <https://chooser-beta.creativecommons.org/>
-4. <https://freesound.org/>
-5. <https://www.toptal.com/developers/gitignore>
-6. Músicas por: <a href="https://freesound.org/people/DaveJf/sounds/616544/"> DaveJf </a> e <a href="https://freesound.org/people/DRFX/sounds/338986/"> DRFX </a> ambas com Licença CC 0.
+1. <https://mayayamamoto.com.br/>
+2. <https://www.linkedin.com/in/maya-yoshiko-yamamoto-bb18a736/.org/>
+3. <https://www.instagram.com/rpg.maya/>
