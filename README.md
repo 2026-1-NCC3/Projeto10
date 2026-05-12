@@ -56,25 +56,28 @@ Como diferencial, o sistema utiliza inteligência artificial para analisar os mo
 
 <h3>Entregas</h3>
 <pre>
+.
 ├── documentos
 │   ├── Banner_FECAP_CCOMP3_ESC.pdf
 │   ├── Banner_FECAP_CCOMP3_ESC.pptx
-│   ├── Documento - Projeto de Extensão - COM Empresa.docx
-│   ├── Documento - Projeto de Extensão - SEM EMPRESA.docx
+│   ├── Documento - Projeto de Extensão - COM Empresa - 2026_1.docx
+│   ├── Documento - Projeto de Extensão - COM Empresa - 2026_1.pdf
 │   ├── Entrega 1
-│   │   ├── Analise Descritiva
-│   │   ├── Aplicativo Móvel
-│   │   ├── Estrutura de Dados
+│   │   ├── Análise Descritiva de Dados
+│   │   ├── Programação Orientada a Objetivos e Estrutura de Dados
 │   │   ├── Programação para Dispositivos
+│   │   ├── Projeto Interdisciplinar Aplicativo Móvel
 │   │   └── Venha para a FECAP!.txt
 │   ├── Entrega 2
-│   │   ├── Analise Descritiva
-│   │   ├── Aplicativo Móvel
-│   │   ├── Estrutura de Dados
+│   │   ├── Análise Descritiva de Dados
+│   │   ├── Programação Orientada a Objetivos e Estrutura de Dados
 │   │   ├── Programação para Dispositivos
+│   │   ├── Projeto Interdisciplinar Aplicativo Móvel
 │   │   └── Venha para a FECAP!.txt
 │   └── Venha para a FECAP!.txt
-├── imagens   
+├── imagens
+│   ├── Tela Paciente
+│   └── Tela Profissional
 ├── README.md
 └── src
     ├── Entrega 1
@@ -131,24 +134,15 @@ Backend/
 </pre>
 </details>
 <br>
+<br>
 
 ## 🛠Instalação
 
 <h3>Android:</h3>
-<p><a href= "https://drive.google.com/file/d/1bZhjURfa8ue7h2TGKx2VhKunDvap8EEC/view?usp=sharing">Click aqui para baixar</a></p>
-<br>
+<p><a href= "https://drive.google.com/file/d/1bZhjURfa8ue7h2TGKx2VhKunDvap8EEC/view?usp=sharing">Click aqui para baixar o arquivo apk</a></p>
 
-## 💻 Como rodar o projeto?
 
-<h3><p>✅ Ferramentas necessárias<p></h3>
-<li>Android Studio</li>
-<li>Visual Studio Code</li>
-<li>Java 11+</li>
-<li>python 3(backend)</li>
-<li>MySQL</li>
-<br>
-
-## 💻 Configuração para Desenvolvimento
+<h2>Tutorial de como baixar o aplicativo</h2>
 
 <h3>1. Acesso ao repositório</h3>
 
@@ -187,10 +181,32 @@ Retorne e selecione “Instalar”</li>
 <li>Retorne à tela de login</li>
 <li>Insira e-mail e senha cadastrados</li>
 <li>Clique em “Entrar”</li>
-
+<br>
 <br>
 
-## 🗂️ Caminho do projeto
+## 🎥Demonstração do Projeto
+<p>Assista ao vídeo abaixo para uma demonstração completa das funcionalidades do sistema, incluindo a criação de participantes, equipes e atividades.</p>
+
+<h3>conta do paciente</h3>
+<a href="https://drive.google.com/file/d/1MjeqjMs6TLmSSI7D7qzJa9heRKmzGFyZ/view?usp=sharing">Clica o link do vídeo aqui</a>
+
+<h3>conta do profissional</h3>
+<a href= "https://drive.google.com/file/d/1cFt2RKfjQtuLXf7qkEg2YvvB7zD0ppAB/view?usp=sharing">Clica o link do vídeo aqui </a> 
+<br>
+<br>
+
+## 💻 Como rodar o projeto?
+
+<h3><p>✅ Ferramentas necessárias<p></h3>
+<li>Android Studio</li>
+<li>Visual Studio Code</li>
+<li>Java 11+</li>
+<li>python 3(backend)</li>
+<li>MySQL</li>
+<br>
+<br>
+
+## 💻 Configuração para Desenvolvimento
 
 ```
 git clone https://github.com/Ericdelucas/Esc--Maya-Yoshiko-Yamamoto.git
@@ -233,15 +249,6 @@ docker-compose down
 
 ---
 <br>
-
-## 🎥Demonstração do Projeto
-<p>Assista ao vídeo abaixo para uma demonstração completa das funcionalidades do sistema, incluindo a criação de participantes, equipes e atividades.</p>
-
-<h3>conta do paciente</h3>
-<a href="https://drive.google.com/file/d/1MjeqjMs6TLmSSI7D7qzJa9heRKmzGFyZ/view?usp=sharing">Clica o link do vídeo aqui</a>
-
-<h3>conta do profissional</h3>
-<a href= "https://drive.google.com/file/d/1cFt2RKfjQtuLXf7qkEg2YvvB7zD0ppAB/view?usp=sharing">Clica o link do vídeo aqui </a> 
 
 
 ## 📱Configuração do Frontend (Android)
@@ -298,8 +305,19 @@ const val BASE_URL = "http://SEU_IP:8080/"
 </table>
 <br>
 
+## 📚 Módulo POO
+
+Acesse o README da parte de Programação Orientada a Objetos:
+
+[👉 Clique aqui para acessar](./documentos/Entrega%202/Programação%20Orientada%20a%20Objetivos%20e%20Estrutura%20de%20Dados/POO/README.md)
+
+
 ## 📋Licença/License
-<p> <a href="https://github.com/Ericdelucas/Esc--Maya-Yoshiko-Yamamoto.git">ESC</a> © 2026 by <a href="https://www.linkedin.com/in/eric-de-lucas-silva/">Eric de Lucas Silva, Stephanie Macedo da Silva e En Hsiang Chien</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"> </p>
+<p> <a href="https://github.com/Ericdelucas/Esc--Maya-Yoshiko-Yamamoto.git">ESC</a> © 2026 by <a href="https://www.linkedin.com/in/eric-de-lucas-silva/">Eric de Lucas Silva</a>,
+<a href ="https://www.linkedin.com/in/stephanie-silva-1b6100340/">Stephanie Macedo da Silva</a>, 
+<a href="https://www.linkedin.com/in/en-hsiang-chien-53b550381/">En Hsiang Chien</a> e
+<a href= "https://www.linkedin.com/school/fecap/posts/?feedView=all"> FECAP </a>
+is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"> </p>
 
 ## 🎓Referências
 
@@ -308,3 +326,5 @@ Aqui estão as referências usadas no projeto.
 1. <https://mayayamamoto.com.br/>
 2. <https://www.linkedin.com/in/maya-yoshiko-yamamoto-bb18a736/.org/>
 3. <https://www.instagram.com/rpg.maya/>
+4. SILVA, Luiz Fernando Tavares; SILVA, Hugo Henrique. Desenvolvimento de aplicação web: prontuário digital para a área de fisioterapia. Belo Horizonte: PUC Minas, 2025.
+5. FREIRE, Tiago Magalhães. Aplicativo para avaliação e orientação do tratamento. Fortaleza: Centro Universitário Christus, 2023.
